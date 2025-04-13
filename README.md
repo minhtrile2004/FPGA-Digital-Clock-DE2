@@ -18,8 +18,11 @@ This is a Verilog-based digital clock project implemented on the DE2 Cyclone II 
 - `src/giaimaled7seg.v`: BCD to 7-segment decoder
 - `src/Dong_Ho.v`: Top module integrating all components
 
-## 🧠 Author
-- **Le Minh Tri** – (https://github.com/minhtrile2004)
+## 🧑‍💻 Author
+
+**Le Minh Tri**  
+📧 minhtri.lmt2004@gmail.com
+🌐 [GitHub Profile](https://github.com/minhtrile2004)
 
 ## 📜 License
 This project is licensed under the MIT License.
