@@ -15,8 +15,6 @@ This project implements a digital clock with an alarm feature using Verilog on t
 - `SW[1]`: Enable or disable the alarm.
 - `SW[17:2]`: Set the alarm time in BCD format (16-bit: hour[7:0] + minute[7:0]).
 
-## 📁 Project Structure
-FPGA-Digital-Clock-DE2/ ├── src/ │ ├── BCD_counter.v # Handles BCD counting for timekeeping │ ├── giaimaled7seg.v # Decodes BCD to 7-segment display signals │ └── Dong_Ho.v # Top-level module integrating all components ├── constraints/ # Pin assignment and board-specific constraints ├── docs/ # Documentation and project reports └── README.md # Project overview and instructions
 
 
 ## 🧑‍💻 Author
