@@ -20,7 +20,7 @@ This is a Verilog-based digital clock project implemented on the DE2 Cyclone II 
 
 ## 🧑‍💻 Author
 
-**Le Minh Tri**  
+**Le Minh Tri - 3rd Year Computer Engineering Student**  
 📧 minhtri.lmt2004@gmail.com
 🌐 [GitHub Profile](https://github.com/minhtrile2004)
 
